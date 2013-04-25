@@ -1,5 +1,7 @@
 # Ruby Lugdunum 2012 website
 
+[2012.rulu.eu](http://2012.rulu.eu)
+
 ## Development environment
 
 - Clone this repository on your local machine

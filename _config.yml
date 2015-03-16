@@ -1,4 +1,5 @@
 paginate: 20
+paginate_path: "/blog/page:num/"
 pigments: true
 name: Ruby Lugdunum 2012
 description: The French Ruby Conference June, 22nd-23rd 2012 in Lyon

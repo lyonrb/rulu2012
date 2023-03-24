@@ -6,7 +6,7 @@ layout: post
 published: true
 ---
 
-<p class="c3"><span>Hello guys!</span></p>
+<p class="c3"><span>Hello all!</span></p>
 <p class="c6 c3"><span></span></p>
 <p class="c3"><span>Rulu 2012 starts tomorrow!</span></p>
 <p class="c6 c3"><span></span></p>

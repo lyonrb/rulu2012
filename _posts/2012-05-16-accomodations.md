@@ -6,7 +6,7 @@ layout: post
 published: true
 ---
 
-Hey guys,
+Hey all,
 
 I gathered a few links for hotels in walking distance from the venue:
 

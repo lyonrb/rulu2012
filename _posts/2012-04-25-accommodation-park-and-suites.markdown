@@ -7,7 +7,7 @@ published: true
 ---
 
 We negociated a great deal at [Park&Suites Prestige Lyon
-Part-Dieu](http://www.parkandsuites.com/en/apparthotel-lyon-part-dieu.php) for you guys!
+Part-Dieu](http://www.parkandsuites.com/en/apparthotel-lyon-part-dieu.php) for you all!
 
 * Apartment Suite Classique (Studio): &euro;99 incl VAT. (instead of &euro;310)
 * Apartment Suite Junior (T2): &euro;130 incl VAT. (instead of &euro;330)

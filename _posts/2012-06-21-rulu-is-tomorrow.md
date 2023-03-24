@@ -10,7 +10,7 @@ published: true
 <p class="c6 c3"><span></span></p>
 <p class="c3"><span>Rulu 2012 starts tomorrow!</span></p>
 <p class="c6 c3"><span></span></p>
-<p class="c3"><span>The </span><span class="c1"><a class="c0" href="http://rulu.eu/schedule/">schedule</a></span><span>&nbsp;was posted last week. Breakfast will be ready around 8h30 and </span><span class="c2">we&rsquo;ll start at 9h15 sharp</span><span>&nbsp;both days. So please arrive at 9h00 the latest.</span></p>
+<p class="c3"><span>The </span><span class="c1"><a class="c0" href="/schedule">schedule</a></span><span>&nbsp;was posted last week. Breakfast will be ready around 8h30 and </span><span class="c2">we&rsquo;ll start at 9h15 sharp</span><span>&nbsp;both days. So please arrive at 9h00 the latest.</span></p>
 <p class="c6 c3"><span></span></p>
 <p class="c3"><span class="c2">Please have your ticket with you</span><span>&nbsp;(on paper, smartphone, tablet, laptop, Comodore 64...) for registration.</span></p>
 <p class="c6 c3"><span></span></p>
@@ -35,6 +35,4 @@ hashtag #rulu. They will be displayed on the <a href="http://sharypic.com/rulu-2
 
 </div>
 
-<p class="c3"><span>Have any questions? Tweet @rulu or email </span><span class="c1"><a class="c0" href="mailto:contact@rulu.eu">contact@rulu.eu</a></span><span>. </span></p>
-<p class="c6 c3"><span></span></p>
 <p class="c3"><span>See you tomorrow!</span></p>
